@@ -27,7 +27,7 @@ In perticular, the code generates figure 2 of the manusript and provides the all
 - `main_final.m`     : Main file to run
 
 
-## Results
+## Results:
 - `R{1, hr_idx}.f`  : Index of probabilisitically feasible injections of battery at the `bus_ESS`node
 - `R{1, hr_idx}.Xb_f` Nx2 double : Probabilisitically feasible injections of battery at the `bus_ESS`node  (N is feasible points)
 - `R{1, hr_idx}.s_limits` : Dx2 double : Minimum and Maximum injection limits at that hour at each node P and Q (D = Dimension loadbus x 2)
@@ -42,6 +42,7 @@ Copyright (c) by Carl Edward Rasmussen and Hannes Nickisch, 2018-06-11.
 
 * Newer GPML toolbox might require matching hyperparameter initialization. To avoid such issues, I have uploaded the GPML Toolbox version [here](https://github.com/parikshit-pareek/Closed-form-Power-Flow/tree/master/GPML). 
 
+## 
 - Look [here](https://github.com/parikshit-pareek/Closed-form-Power-Flow) for more details  
 - Other variable names are self-explaintory
 - All the codes are tested on MATLAB R2020b
