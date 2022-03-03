@@ -43,6 +43,6 @@ Copyright (c) by Carl Edward Rasmussen and Hannes Nickisch, 2018-06-11.
 * Newer GPML toolbox might require matching hyperparameter initialization. To avoid such issues, I have uploaded the GPML Toolbox version [here](https://github.com/parikshit-pareek/Closed-form-Power-Flow/tree/master/GPML). 
 
 ## 
-- Look [here](https://github.com/parikshit-pareek/Closed-form-Power-Flow) for more details about closed-from learning
+- Look [here](https://github.com/parikshit-pareek/Closed-form-Power-Flow) for more details about **Closed-form Power Flow [(CFPF)]**(https://www.researchgate.net/publication/354937182_A_Framework_for_Analytical_Power_Flow_Solution_using_Gaussian_Process_Learning).
 - Other variable names are self-explaintory
 - All the codes are tested on MATLAB R2020b
