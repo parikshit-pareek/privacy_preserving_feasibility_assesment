@@ -16,3 +16,12 @@ Cite As:
 }
 ```
 In perticular, the code generates figure 2 of the manusript and provides the all the results in cell array **R**. 
+
+## Details of Files: 
+- `CFPF_QD_Kernel_DER_bus.m` : Function obtaining the CFPF Approximation using Quadratic Kernel.
+- `input_dataset_Load.m` : Creating load data set for training and testing 
+- `MCS_output.m`    : Monte-Carlo Simulation to obtain testing data points
+- `rand_sample_x.m` : Generating random samples
+- `runpf_complete.m` : MATPOWER codes combined together to avid downloading 
+- `Sampling_Jaco.m`  : Cover to 'runpf' for obtaining power flow datasets
+- `main_final.m`     : Main file to run
