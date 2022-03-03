@@ -30,7 +30,7 @@ In perticular, the code generates figure 2 of the manusript and provides the all
 ## Results:
 - `R{1, hr_idx}.f`  : Index of probabilisitically feasible injections of battery at the `bus_ESS`node
 - `R{1, hr_idx}.Xb_f` Nx2 double : Probabilisitically feasible injections of battery at the `bus_ESS`node  (N is feasible points)
-- `R{1, hr_idx}.s_limits` : Dx2 double : Minimum and Maximum injection limits at that hour at each node P and Q (D = Dimension loadbus x 2)
+- `R{1, hr_idx}.s_limits` : Dx2 double : Minimum and Maximum injection limits at that hour at each node P and Q (D = #Loadbus x 2)
 - `R{1, hr_idx}.ind_cap`: Indvidual PV injection (max)
 - `R{1, hr_idx}.XPb` : The physical battery space of real power (grid for min and max possible P)
 - `R{1, hr_idx}.XQb` : The physical battery space of reactive power (grid for min and max possible Q)
