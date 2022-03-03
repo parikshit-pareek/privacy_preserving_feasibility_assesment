@@ -6,7 +6,7 @@ Parikshit Pareek and Hung Nguyen, ["Privacy-Preserving Feasibility Assessment fo
 
 Cite As: 
 ```
-@article{pareek2022framework,
+@article{pareek2022privacy,
   title={Privacy-Preserving Feasibility Assessment for P2P Energy Trading and Storage Integration,
   author={Pareek, Parikshit and Singh, Anshuman and Sampath, LP Mohasha Isuru and Gooi, HB and Nguyen, Hung D},
  booktitle={2022 IEEE Power Engineering Society General Meeting--Accepted},
