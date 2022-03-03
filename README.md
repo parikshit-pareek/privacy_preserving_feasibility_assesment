@@ -28,9 +28,9 @@ In perticular, the code generates figure 2 of the manusript and provides the all
 
 
 ##
-`R{1, hr_idx}.f`
-`R{1, hr_idx}.Xb_f` 
-`R{1, hr_idx}.s_limits`
-`R{1, hr_idx}.ind_cap`
-`R{1, hr_idx}.XPb`
-`R{1, hr_idx}.XQb`
+-`R{1, hr_idx}.f`  : Index of probabilisitically feasible injections of battery at the `bus_ESS`node
+-`R{1, hr_idx}.Xb_f` Nx2 double : Probabilisitically feasible injections of battery at the `bus_ESS`node  (N is feasible points)
+-`R{1, hr_idx}.s_limits` : 64x2 double : Minimum and Maximum injection limits at that hour at each node P and Q
+-`R{1, hr_idx}.ind_cap`: Indvidual PV injection (max)
+-`R{1, hr_idx}.XPb` : 
+-`R{1, hr_idx}.XQb`
