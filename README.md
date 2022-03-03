@@ -15,4 +15,4 @@ Cite As:
   organization={IEEE}
 }
 ```
-In perticular, the code generates figure 2 of the manusript and provides the all the results in `R'. 
+In perticular, the code generates figure 2 of the manusript and provides the all the results in cell array **R**. 
