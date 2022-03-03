@@ -25,3 +25,12 @@ In perticular, the code generates figure 2 of the manusript and provides the all
 - `runpf_complete.m` : MATPOWER codes combined together to avid downloading 
 - `Sampling_Jaco.m`  : Cover to 'runpf' for obtaining power flow datasets
 - `main_final.m`     : Main file to run
+
+
+##
+`R{1, hr_idx}.f`
+`R{1, hr_idx}.Xb_f` 
+`R{1, hr_idx}.s_limits`
+`R{1, hr_idx}.ind_cap`
+`R{1, hr_idx}.XPb`
+`R{1, hr_idx}.XQb`
