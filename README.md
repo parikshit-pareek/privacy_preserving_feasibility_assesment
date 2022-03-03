@@ -1,8 +1,7 @@
 # privacy_preserving_feasibility_assesment
 
 This file contain the code related to the paper: 
-
-Parikshit Pareek and Hung Nguyen, ["Privacy-Preserving Feasibility Assessment for P2P Energy Trading and Storage Integration" Accepted for 2022 PESGM"](https://www.researchgate.net/publication/358660003_Privacy-Preserving_Feasibility_Assessment_for_P2P_Energy_Trading_and_Storage_Integration), [Preprint](https://www.researchgate.net/publication/358660003_Privacy-Preserving_Feasibility_Assessment_for_P2P_Energy_Trading_and_Storage_Integration)
+Parikshit Pareek, Anshuman Singh, L.P. Mohasha Isuru Sampath, H. B. Gooi and Hung D Nguyen, ["Privacy-Preserving Feasibility Assessment for P2P Energy Trading and Storage Integration" Accepted for 2022 PESGM"](https://www.researchgate.net/publication/358660003_Privacy-Preserving_Feasibility_Assessment_for_P2P_Energy_Trading_and_Storage_Integration), [Preprint](https://www.researchgate.net/publication/358660003_Privacy-Preserving_Feasibility_Assessment_for_P2P_Energy_Trading_and_Storage_Integration)
 
 Cite As: 
 ```
